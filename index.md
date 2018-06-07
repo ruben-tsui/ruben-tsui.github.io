@@ -9,11 +9,15 @@ Natural Language Processing, neural networks
 Currently enrolled in
 
 Graduate Program in Translation & Interpretation - Tralation Track
+
 National Taiwan University
+
 Taipei, Taiwan
 
 BBA in Actuarial Science
+
 Fox School of Business, Temple University
+
 Philadelphia, USA
 
 ```markdown
