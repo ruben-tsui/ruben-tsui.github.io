@@ -8,7 +8,7 @@ Natural Language Processing, neural networks
 
 Currently enrolled in
 
-Graduate Program in Translation & Interpretation - Tralation Track
+Graduate Program in Translation & Interpretation - Translation Track
 
 National Taiwan University
 
