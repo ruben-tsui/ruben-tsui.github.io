@@ -2,7 +2,7 @@
 
 Interests:
 
-Natural Language Processing, neural networks
+Natural Language Processing, artificial neural networks, large language models (LLMs)
 
 ### Education
 
