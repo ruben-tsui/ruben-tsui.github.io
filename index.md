@@ -8,12 +8,22 @@ Natural Language Processing, neural networks
 
 Currently enrolled in
 
+Ph.D. in Translation
+
+Graduate Program in Translation & Interpretation - Translation Track
+
+National Taiwan Normal University
+
+Taipei, Taiwan
+----------------
+Master of Arts in Translation
+
 Graduate Program in Translation & Interpretation - Translation Track
 
 National Taiwan University
 
 Taipei, Taiwan
-
+----------------
 BBA in Actuarial Science
 
 Fox School of Business, Temple University
