@@ -2,11 +2,11 @@
 
 Interests:
 
-Natural Language Processing, artificial neural networks, large language models (LLMs)
+LLM-based Translation with Context Engineering; Mechanistic Interpretation in LLM-based Machine Translation; Natural Language Processing
 
 ### Education
 
-Currently enrolled in
+Currently (since Fall 2024) enrolled in
 
 Ph.D. in Translation
 
